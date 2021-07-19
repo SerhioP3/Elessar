@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SerhioP3
-- 👀 I’m interested in Programming, shares, LotR and soccer
+- 👀 I’m interested in Programming, Shares, LotR and Soccer
 - 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
