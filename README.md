@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SerhioP3
-- 👀 I’m interested in Programming, Shares, LotR and Soccer
-- 🌱 I’m currently learning Python programming language
+- 👋 Hi, I’m @Elessar
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C# programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
